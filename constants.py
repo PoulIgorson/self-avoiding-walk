@@ -17,3 +17,5 @@ modBLUE_1 = pygame.color.Color(117, 207, 242)
 modGRAY_1 = pygame.color.Color(22, 23, 23)
 
 modBLUE_2 = pygame.color.Color(121, 120, 196)
+
+CLICK_BUTTON_COLOR = pygame.color.Color(90, 76, 105)

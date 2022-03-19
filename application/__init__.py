@@ -9,7 +9,7 @@ class PGApplication:
     def __init__(self):
         pygame.init()
         settings = {
-            'SIZE': self.SIZE,
+            'SIZE': 'dynamic',
             'FPS': self.FPS,
         }
         self.controller = PGController(**settings)
